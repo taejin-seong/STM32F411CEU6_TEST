@@ -1,0 +1,6 @@
+1618507092430	Delete resource 'stm32f411_fw/src/hw/common/hw/include/lcd/lcd_fonts.h'
+1618507102761	Delete resource 'stm32f411_fw/src/hw/driver/lcd/lcd_fonts.c'
+1618507116085	Delete resource 'stm32f411_fw/src/lib/lvgl'
+1618507123182	Delete resource 'stm32f411_fw/src/ap/image'
+1618507131414	Delete resource 'stm32f411_fw/src/hw/common/hw/include/resize.h'
+1618507142293	Delete resource 'stm32f411_fw/src/hw/driver/resize.c'

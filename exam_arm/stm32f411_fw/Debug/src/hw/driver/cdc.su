@@ -1,0 +1,2 @@
+cdc.c:17:6:cdcInit	16	static
+cdc.c:26:6:cdcIsInit	4	static
