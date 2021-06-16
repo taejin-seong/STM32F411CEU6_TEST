@@ -29,6 +29,7 @@ src/hw/hw.o: ../src/hw/hw.c ../src/hw/hw.h ../src/hw/hw_def.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sd.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_sdmmc.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+ C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
@@ -45,6 +46,7 @@ src/hw/hw.o: ../src/hw/hw.c ../src/hw/hw.h ../src/hw/hw_def.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/include/sd.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/include/fatfs.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/include/spi.h \
+ C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/include/nrf24l01.h \
  C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/include/lcd.h
 
 ../src/hw/hw.h:
@@ -111,6 +113,8 @@ C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drive
 
 C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h:
 
+C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
+
 C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h:
 
 C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/lib/cube_f411/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h:
@@ -142,5 +146,7 @@ C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/includ
 C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/include/fatfs.h:
 
 C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/include/spi.h:
+
+C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/include/nrf24l01.h:
 
 C:/STM32\ Coding\ files/exam_fw411/exam_arm/stm32f411_fw/src/hw/common/hw/include/lcd.h:

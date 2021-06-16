@@ -5,3 +5,8 @@ uart.c:119:9:uartRead	24	static
 uart.c:139:10:uartWrite	32	static
 uart.c:165:10:uartPrintf	292	static
 uart.c:183:10:uartGetBaud	24	static
+uart.c:207:6:HAL_UART_ErrorCallback	16	static
+uart.c:214:6:HAL_UART_RxCpltCallback	16	static
+uart.c:231:6:HAL_UART_MspInit	48	static
+uart.c:261:6:HAL_UART_MspDeInit	16	static
+uart.c:284:6:MX_USART1_UART_Init	8	static

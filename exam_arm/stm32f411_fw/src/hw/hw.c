@@ -20,10 +20,13 @@ void hwInit(void)
   ledInit();
   usbInit();
   uartInit();
+  MX_USART1_UART_Init();
   buttonInit();
   gpioInit();
   flashInit();
+  MX_SPI1_Init();
   spiInit();
+  NRF24L01_Init();
 
   if (sdInit() == true)
   {

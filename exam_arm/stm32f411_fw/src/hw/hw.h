@@ -24,6 +24,7 @@
 #include "sd.h"
 #include "fatfs.h"
 #include "spi.h"
+#include "nrf24l01.h"
 #include "lcd.h"
 
 void hwInit(void);

@@ -12,7 +12,7 @@
 	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.last_focus" value="1"/>
 	<item key="LastUsedHeaderTemplate" value="Default C header template"/>
 	<item key="LastUsedSourceTemplate" value="Default C source template"/>
-	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value="${workspace_loc:/${ProjName}/src/hw/driver/usb/usb_msc}"/>
+	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value=""/>
 	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
 	</section>
 	<section name="OptionalMessageDialog.hide.">
@@ -29,5 +29,9 @@
 		<item key="DIALOG_WIDTH" value="398"/>
 		<item key="DIALOG_HEIGHT" value="438"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item key="size.width" value="566"/>
+		<item key="size.height" value="180"/>
 	</section>
 </section>

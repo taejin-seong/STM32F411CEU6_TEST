@@ -19,7 +19,7 @@
 #define SPI_MODE1           1
 #define SPI_MODE2           2
 #define SPI_MODE3           3
-
+extern SPI_HandleTypeDef hspi1;
 
 bool spiInit(void);
 bool spiBegin(uint8_t ch);
@@ -34,6 +34,8 @@ void spiDmaTxTransfer(uint8_t ch, void *buf, uint32_t length, uint32_t timeout) 
 bool spiDmaTxIsDone(uint8_t ch);
 void spiAttachTxInterrupt(uint8_t ch, void (*func)());
 
+
+void MX_SPI1_Init(void);
 
 #endif /* _USE_HW_SPI */
 

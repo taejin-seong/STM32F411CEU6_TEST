@@ -80,11 +80,12 @@ uint32_t cdcWrite(uint8_t *p_data, uint32_t length)
 {
   uint32_t pre_time;
   uint8_t ret;
-
+/*
   if(cdcIsInit() != true)
   {
 	  return 0;
   }
+ */
   pre_time = millis();
   while(1)
   {

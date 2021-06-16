@@ -49,6 +49,8 @@
 #define      HW_LCD_WIDTH           160
 #define      HW_LCD_HEIGHT          80
 
+#define _USE_HW_NRF24L01
+
 #define _PIN_GPIO_SDCARD_DETECT		0
 
 
